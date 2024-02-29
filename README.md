@@ -30,7 +30,7 @@ I am _Abhishek Patil_. I'm  a **Full Stack Developer** from Pune , Maharashtra .
 ### 🎊 Few of my awesome projects:
 - WanderLust - Travel web app for travel enthusiasts [(link)](https://wanderlust-pro-okn4.onrender.com/listings)
 - Social Media Clone - Social media clone website designed to connect people, foster meaningful interactions [(link)](https://abhishek-patil-socialmedia-clone.vercel.app/)
-- NextTale - Nextjs blog application [(link)](https://nextjs-blog-app-five-virid.vercel.app/)
+- NextTale - Nextjs blog application [(link)](https://abhishekpatil-nextjs-blogapp.vercel.app/)
 - React app to implement add to cart functionality using redux-toolkit [(link)](https://abhishek-patil-myntra-clone.vercel.app/)
 
 

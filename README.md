@@ -1,6 +1,6 @@
 # Hello! 👋👋
 
-I am _Abhishek Patil_. I'm working remotely as a **Full Stack Developer** 🚀 . I'm highly skilled with **C++/JavaScript** 💻 and all its associated runtimes. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. 
+I am _Abhishek Patil_. I'm  a **Full Stack Developer** from Pune , Maharashtra . I'm highly skilled with **C++/JavaScript** 💻 and all its associated runtimes. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. 
 
 ### 🌟 Technologies I've worked with:
 

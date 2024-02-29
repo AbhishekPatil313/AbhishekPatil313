@@ -19,7 +19,7 @@ I am _Abhishek Patil_. I'm working remotely as a **Full Stack Developer** 🚀 .
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://chakra-ui.com/" target="_blank"> <img src="<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://chakra-ui.com/" target="_blank"> <img src="https://repository-images.githubusercontent.com/202890778/85840180-ec15-11e9-883c-82d28e34babc" alt="tailwind" width="40" height="40"/> </a>
 " alt="tailwind" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
 </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> </a>
